@@ -24,5 +24,5 @@ Before you begin, ensure you have the following software installed:
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/food-delivery-system.git
+https://github.com/Ankitaghavate/Food_Delivery_Project.git
 
