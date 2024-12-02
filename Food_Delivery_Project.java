@@ -622,7 +622,7 @@ public class Food_Delivery_Project extends JFrame implements ActionListener {
                 JOptionPane.showMessageDialog(null, "Please Enter Username");
             } else if (p1.getText().equals("")) {
                 JOptionPane.showMessageDialog(null, "Please Enter password");
-            } else if (t1.getText().equals("8766985145") && p1.getText().equals("12345")) {
+            } else if (t1.getText().equals("1234567890") && p1.getText().equals("12345")) {
                 jp1.setVisible(false);
                 jp2.setVisible(false);
                 tp1.setVisible(true);
